@@ -1,7 +1,9 @@
-# Hey, I'm Rajasi Barapatre! 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Rajasi+Barapatre!+%F0%9F%91%8B" />
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=2&section=header&reversal=false" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2&section=header" width="100%" />
 </p>
 
 ### Software Developer | AI/ML Engineer | Problem Solver
