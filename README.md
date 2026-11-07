@@ -5,7 +5,9 @@
 I build AI systems that move from research ideas to reliable, working software. My work spans generative models, computer vision, explainable AI, semantic search, and static program analysis, with a focus on problems that matter in the real world.
 I believe in continuous learning, writing better code, and challenging myself to grow as an engineer every day.
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=2&section=header&reversal=false" width="100%" />
+</p>
 
 ### 🚀 About Me
 
@@ -87,19 +89,6 @@ I believe in continuous learning, writing better code, and challenging myself to
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SAP BusinessObjects](https://img.shields.io/badge/SAP_BusinessObjects-0870C4?style=for-the-badge)
 ![Control-M](https://img.shields.io/badge/Control--M-263238?style=for-the-badge)
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajasiBarapatre&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajasiBarapatre&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RajasiBarapatre&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
