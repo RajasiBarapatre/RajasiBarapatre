@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Rajasi+Barapatre!+%F0%9F%91%8B" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Rajasi+Barapatre!" />
 </p>
 
 <p align="center">
@@ -11,16 +11,20 @@
 I build AI systems that move from research ideas to reliable, working software. My work spans generative models, computer vision, explainable AI, semantic search, and static program analysis, with a focus on problems that matter in the real world.
 I believe in continuous learning, writing better code, and challenging myself to grow as an engineer every day.
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2&section=header" width="100%" />
+</p>
 
 ### 🚀 About Me
 
 - 🤖 Passionate about Artificial Intelligence, Machine Learning, and Deep Learning.
 - 🧠 Exploring Generative AI, Computer Vision, NLP, and Large Language Models.
-- 💻 Interested in software development and building practical applications.
+- 💻 Interested in software development and building AI applications.
 - 🌱 Always learning, experimenting and expanding my technical skill set.
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2&section=header" width="100%" />
+</p>
 
 ### 🔬 Research Interests
 
@@ -48,6 +52,10 @@ I believe in continuous learning, writing better code, and challenging myself to
 
 - **Statistical Analysis of the Israeli-Palestinian Conflict: Pattern and Dynamics**  
   *Springer LNNS Proceedings | 2025*
+
+---
+
+### Patents
 
 ---
 
@@ -96,17 +104,9 @@ I believe in continuous learning, writing better code, and challenging myself to
 
 ---
 
-### ⚡ My Developer Philosophy
-
-> Build with curiosity. Learn with consistency. Improve with every commit.
-
-I believe every project is an opportunity to learn something new. My goal is to keep exploring, building meaningful solutions, and growing as a developer.
-
----
-
 ### 🤝 Let's Connect!
 
-I'm always open to learning, sharing ideas, and connecting with fellow developers.
+I'm always open to learning, sharing ideas and connecting with fellow developers.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/RajasiBarapatre">
@@ -115,8 +115,6 @@ I'm always open to learning, sharing ideas, and connecting with fellow developer
 </p>
 
 <p align="center">
-  <b>Thanks for visiting my profile! ⭐</b>
-  <br/>
   <i>Keep building. Keep learning. Keep growing.</i>
 </p>
 
