@@ -37,7 +37,9 @@ I believe in continuous learning, writing better code, and challenging myself to
 - Speech Processing & Audio Intelligence
 - AI-Assisted Software Engineering
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2&section=header" width="100%" />
+</p>
 
 ### 📚 Research Publications
 
@@ -53,11 +55,19 @@ I believe in continuous learning, writing better code, and challenging myself to
 - **Statistical Analysis of the Israeli-Palestinian Conflict: Pattern and Dynamics**  
   *Springer LNNS Proceedings | 2025*
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2&section=header" width="100%" />
+</p>
 
-### Patents
+### 📜 Patents Filed
 
----
+1. **Real-time Deep Learning Enabled Auditory Scene Interpretation in Wearable Eyewear for Visually Impaired Users**
+
+2. **Real-Time Multi-Modal Sign Language Recognition and Translation**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2&section=header" width="100%" />
+</p>
 
 ### 🛠️ Tech Stack
 
@@ -102,7 +112,9 @@ I believe in continuous learning, writing better code, and challenging myself to
 ![SAP BusinessObjects](https://img.shields.io/badge/SAP_BusinessObjects-0870C4?style=for-the-badge)
 ![Control-M](https://img.shields.io/badge/Control--M-263238?style=for-the-badge)
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2&section=header" width="100%" />
+</p>
 
 ### 🤝 Let's Connect!
 
@@ -119,5 +131,5 @@ I'm always open to learning, sharing ideas and connecting with fellow developers
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:312E81,100:6D5AE6&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=45&section=footer" width="100%" />
 </p>
