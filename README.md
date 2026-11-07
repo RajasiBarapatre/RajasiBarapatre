@@ -43,16 +43,16 @@ I believe in continuous learning, writing better code, and challenging myself to
 
 ### 📚 Research Publications
 
-- [Generation of Photo-realistic Disguised Faces from Sketches using GANs and Stable-Diffusion](https://link.springer.com/chapter/10.1007/978-3-032-27754-1_35)
+- [Generation of Photo-realistic Disguised Faces from Sketches using GANs and Stable-Diffusion](https://link.springer.com/chapter/10.1007/978-3-032-27754-1_35)  
   Published: Springer LNNS Proceedings (2026)
 
-- [Interpretable Mental Disorder Classification Using Attention-Based Neural Networks and SHAP Explainability](https://dl.acm.org/doi/10.1145/3793449.3793453)
+- [Interpretable Mental Disorder Classification Using Attention-Based Neural Networks and SHAP Explainability](https://dl.acm.org/doi/10.1145/3793449.3793453)  
   Published: ACM Digital Library (2025)
 
-- [HuBERT Features and CNN-BiLSTM with Attention Fusion for Improved Dysarthria Detection](https://ieeexplore.ieee.org/document/11717132)
+- [HuBERT Features and CNN-BiLSTM with Attention Fusion for Improved Dysarthria Detection](https://ieeexplore.ieee.org/document/11717132)  
   Published: IEEE Xplore Digital Library (2026)
 
-- [Statistical Analysis of the Israeli-Palestinian Conflict: Pattern and Dynamics](https://link.springer.com/chapter/10.1007/978-3-032-12983-3_11)
+- [Statistical Analysis of the Israeli-Palestinian Conflict: Pattern and Dynamics](https://link.springer.com/chapter/10.1007/978-3-032-12983-3_11)  
   Published: Springer LNNS Proceedings (2025)
 
 <p align="center">
