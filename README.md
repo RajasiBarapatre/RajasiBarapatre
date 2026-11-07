@@ -2,19 +2,46 @@
 
 ### Software Developer | AI/ML Engineer | Problem Solver
 
-I enjoy turning ideas into practical solutions through code. I'm passionate about software development, artificial intelligence, machine learning, and exploring emerging technologies.
-
-I believe in continuous learning, writing better code, and challenging myself to grow as a developer every day.
+I build AI systems that move from research ideas to reliable, working software. My work spans generative models, computer vision, explainable AI, semantic search, and static program analysis, with a focus on problems that matter in the real world.
+I believe in continuous learning, writing better code, and challenging myself to grow as an engineer every day.
 
 ---
 
 ### 🚀 About Me
 
-- 💻 Interested in software development and building practical applications.
 - 🤖 Passionate about Artificial Intelligence, Machine Learning, and Deep Learning.
 - 🧠 Exploring Generative AI, Computer Vision, NLP, and Large Language Models.
-- ⚙️ Interested in Data Structures, Algorithms, and problem-solving.
-- 🌱 Always learning, experimenting, and expanding my technical skill set.
+- 💻 Interested in software development and building practical applications.
+- 🌱 Always learning, experimenting and expanding my technical skill set.
+
+---
+
+### 🔬 Research Interests
+
+- Generative AI & Diffusion Models
+- Computer Vision & Image Generation
+- Deep Learning & Neural Network Architectures
+- Natural Language Processing & Large Language Models
+- Explainable AI & Interpretable Machine Learning
+- Information Retrieval & Semantic Search
+- Speech Processing & Audio Intelligence
+- AI-Assisted Software Engineering
+
+---
+
+### 📚 Research Publications
+
+- **Generation of Photo-realistic Disguised Faces from Sketches using GANs and Stable-Diffusion**  
+  *Springer LNNS Proceedings | 2026*
+
+- **Interpretable Mental Disorder Classification Using Attention-Based Neural Networks and SHAP Explainability**  
+  *ACM Digital Library | 2025*
+
+- **HuBERT Features and CNN-BiLSTM with Attention Fusion for Improved Dysarthria Detection**  
+  *IEEE Xplore Proceedings | 2026*
+
+- **Statistical Analysis of the Israeli-Palestinian Conflict: Pattern and Dynamics**  
+  *Springer LNNS Proceedings | 2025*
 
 ---
 
@@ -89,9 +116,6 @@ I believe every project is an opportunity to learn something new. My goal is to 
 I'm always open to learning, sharing ideas, and connecting with fellow developers.
 
 <p align="center">
-  <a href="https://github.com/RajasiBarapatre">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/RajasiBarapatre">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -101,4 +125,8 @@ I'm always open to learning, sharing ideas, and connecting with fellow developer
   <b>Thanks for visiting my profile! ⭐</b>
   <br/>
   <i>Keep building. Keep learning. Keep growing.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:312E81,100:6D5AE6&height=100&section=footer" width="100%" />
 </p>
