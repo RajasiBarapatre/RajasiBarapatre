@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2&section=header" width="100%" />
 </p>
 
-### Software Developer | AI/ML Engineer | Problem Solver
+### AI/ML Engineer | Data Engineer | Software Developer 
 
 I build AI systems that move from research ideas to reliable, working software. My work spans generative models, computer vision, explainable AI, semantic search, and static program analysis, with a focus on problems that matter in the real world.
 I believe in continuous learning, writing better code, and challenging myself to grow as an engineer every day.
@@ -43,17 +43,17 @@ I believe in continuous learning, writing better code, and challenging myself to
 
 ### 📚 Research Publications
 
-- **Generation of Photo-realistic Disguised Faces from Sketches using GANs and Stable-Diffusion**  
-  *Springer LNNS Proceedings | 2026*
+- [Generation of Photo-realistic Disguised Faces from Sketches using GANs and Stable-Diffusion](https://link.springer.com/chapter/10.1007/978-3-032-27754-1_35)
+  - Published: Springer LNNS Proceedings (2026)
 
-- **Interpretable Mental Disorder Classification Using Attention-Based Neural Networks and SHAP Explainability**  
-  *ACM Digital Library | 2025*
+- [Interpretable Mental Disorder Classification Using Attention-Based Neural Networks and SHAP Explainability](https://dl.acm.org/doi/10.1145/3793449.3793453)
+  - Published: ACM Digital Library (2025)
 
-- **HuBERT Features and CNN-BiLSTM with Attention Fusion for Improved Dysarthria Detection**  
-  *IEEE Xplore Proceedings | 2026*
+- [HuBERT Features and CNN-BiLSTM with Attention Fusion for Improved Dysarthria Detection](https://ieeexplore.ieee.org/document/11717132)
+  - Published: IEEE Xplore Digital Library (2026)
 
-- **Statistical Analysis of the Israeli-Palestinian Conflict: Pattern and Dynamics**  
-  *Springer LNNS Proceedings | 2025*
+- [Statistical Analysis of the Israeli-Palestinian Conflict: Pattern and Dynamics](https://link.springer.com/chapter/10.1007/978-3-032-12983-3_11)
+  - Published: Springer LNNS Proceedings (2025)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2&section=header" width="100%" />
@@ -61,9 +61,9 @@ I believe in continuous learning, writing better code, and challenging myself to
 
 ### 📜 Patents Filed
 
-1. **Real-time Deep Learning Enabled Auditory Scene Interpretation in Wearable Eyewear for Visually Impaired Users**
+- **Real-time Deep Learning Enabled Auditory Scene Interpretation in Wearable Eyewear for Visually Impaired Users**
 
-2. **Real-Time Multi-Modal Sign Language Recognition and Translation**
+- **Real-Time Multi-Modal Sign Language Recognition and Translation**
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2&section=header" width="100%" />
