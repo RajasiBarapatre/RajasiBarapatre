@@ -131,5 +131,5 @@ I'm always open to learning, sharing ideas and connecting with fellow developers
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=45&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:1D4ED8,65:3B82F6,100:58A6FF&height=120&section=footer&reversal=false" width="100%" />
 </p>
