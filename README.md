@@ -1,10 +1,10 @@
 # Hey, I'm Rajasi Barapatre! 👋
 
-### Software Developer | AI/ML Engineer | Problem Solver
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=2&section=header&reversal=false" width="100%" />
 </p>
+
+### Software Developer | AI/ML Engineer | Problem Solver
 
 I build AI systems that move from research ideas to reliable, working software. My work spans generative models, computer vision, explainable AI, semantic search, and static program analysis, with a focus on problems that matter in the real world.
 I believe in continuous learning, writing better code, and challenging myself to grow as an engineer every day.
