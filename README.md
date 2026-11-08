@@ -127,9 +127,5 @@ I'm always open to learning, sharing ideas and connecting with fellow developers
 </p>
 
 <p align="center">
-  <i>Keep building. Keep learning. Keep growing.</i>
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=55&section=footer" width="100%" />
 </p>
